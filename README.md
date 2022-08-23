@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C#, 3d Modeling, Neural Networks, Image processing, 3d manipulation.
 - 💞️ I’m looking to collaborate on just about anything will do, I know a little bit of everything about everything, and has no problem to find what's missing and learn
 - too!
-- 📫 How to reach me try facebook: facebook.com/luskos1
+- 📫 How to reach me try facebook: facebook.com/luskos1, alternative is: yozov.lyudmil@gmail.com, i check it pretty much every other day.
 
 <!---
 luskos/luskos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
