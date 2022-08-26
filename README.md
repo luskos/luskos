@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with other people. I know a little bit of everything about everything, and have no problem of finding what's missing and learn that
 - too!
 - 📫 How to reach me: Try Facebook fb.com/luskos1 , alternative is: yozov.lyudmil@gmail.com
-
+- Currently devloping Data Processing library - Making Data Containers, Archive Copies, Data Compression, Muxing, Shuffling, etc.
 <!---
 luskos/luskos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
